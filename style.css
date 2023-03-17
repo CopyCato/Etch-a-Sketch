@@ -1,6 +1,5 @@
 .grid-container {
-  display:grid;
-  grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto;
+  display: grid;
   background-color: grey;
   padding: 10px;
   width: 700px;
@@ -10,4 +9,8 @@
   background-color: white;
   border: 1px solid black;
   padding: 20px;
+}
+
+header {
+  text-align: center;
 }
